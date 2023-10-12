@@ -15,7 +15,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <div class="img-box">
-                <img src="images/u-1.png" alt="">
+                <img src="@/assets/Fitness/images/u-1.png" alt="LOGO HERE">
               </div>
               <div class="detail-box">
                 <h5>
@@ -30,7 +30,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <div class="img-box">
-                <img src="images/u-4.png" alt="">
+                <img src="@/assets/Fitness/images/u-4.png" alt="LOGO HERE">
               </div>
               <div class="detail-box">
                 <h5>
@@ -45,7 +45,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <div class="img-box">
-                <img src="images/u-2.png" alt="">
+                <img src="@/assets/Fitness/images/u-2.png" alt="LOGO HERE">
               </div>
               <div class="detail-box">
                 <h5>
@@ -60,7 +60,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <div class="img-box">
-                <img src="images/u-3.png" alt="">
+                <img src="@/assets/Fitness/images/u-3.png" alt="LOGO HERE">
               </div>
               <div class="detail-box">
                 <h5>
@@ -126,17 +126,17 @@
               </h5>
             </div>
             <div class="img-box">
-              <img src="images/t1.jpg" alt="">
+              <img src="@/assets/Fitness/images/t1.jpg" alt="LOGO HERE">
             </div>
             <div class="social_box">
               <a href="">
-                <img src="images/facebook-logo.png" alt="">
+                <img src="@/assets/Fitness/images/facebook-logo.png" alt="LOGO HERE">
               </a>
               <a href="">
-                <img src="images/twitter.png" alt="">
+                <img src="@/assets/Fitness/images/twitter.png" alt="LOGO HERE">
               </a>
               <a href="">
-                <img src="images/instagram-logo.png" alt="">
+                <img src="@/assets/Fitness/images/instagram-logo.png" alt="LOGO HERE">
               </a>
             </div>
           </div>
@@ -149,17 +149,17 @@
               </h5>
             </div>
             <div class="img-box">
-              <img src="images/t2.jpg" alt="">
+              <img src="@/assets/Fitness/images/t2.jpg" alt="LOGO HERE">
             </div>
             <div class="social_box">
               <a href="">
-                <img src="images/facebook-logo.png" alt="">
+                <img src="@/assets/Fitness/images/facebook-logo.png" alt="LOGO HERE">
               </a>
               <a href="">
-                <img src="images/twitter.png" alt="">
+                <img src="@/assets/Fitness/images/twitter.png" alt="LOGO HERE">
               </a>
               <a href="">
-                <img src="images/instagram-logo.png" alt="">
+                <img src="@/assets/Fitness/images/instagram-logo.png" alt="LOGO HERE">
               </a>
             </div>
           </div>
@@ -172,17 +172,17 @@
               </h5>
             </div>
             <div class="img-box">
-              <img src="images/t3.jpg" alt="">
+              <img src="@/assets/Fitness/images/t3.jpg" alt="">
             </div>
             <div class="social_box">
               <a href="">
-                <img src="images/facebook-logo.png" alt="">
+                <img src="@/assets/Fitness/images/facebook-logo.png" alt="">
               </a>
               <a href="">
-                <img src="images/twitter.png" alt="">
+                <img src="@/assets/Fitness/images/twitter.png" alt="">
               </a>
               <a href="">
-                <img src="images/instagram-logo.png" alt="">
+                <img src="@/assets/Fitness/images/instagram-logo.png" alt="">
               </a>
             </div>
           </div>
@@ -236,52 +236,6 @@
   </section>
 
   <!-- end contact section -->
-
-  <!-- info section -->
-  <section class="info_section layout_padding2">
-    <div class="container">
-      <div class="info_items">
-        <a href="">
-          <div class="item ">
-            <div class="img-box box-1">
-              <img src="" alt="">
-            </div>
-            <div class="detail-box">
-              <p>
-                Location
-              </p>
-            </div>
-          </div>
-        </a>
-        <a href="">
-          <div class="item ">
-            <div class="img-box box-2">
-              <img src="" alt="">
-            </div>
-            <div class="detail-box">
-              <p>
-                +02 1234567890
-              </p>
-            </div>
-          </div>
-        </a>
-        <a href="">
-          <div class="item ">
-            <div class="img-box box-3">
-              <img src="" alt="">
-            </div>
-            <div class="detail-box">
-              <p>
-                demo@gmail.com
-              </p>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- end info_section -->
 
     </div>
 </template>
