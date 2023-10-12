@@ -15,7 +15,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="@/assets/Finexo/images/s1.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -35,7 +35,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="@/assets/Finexo/images/s2.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -55,7 +55,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="@/assets/Finexo/images/s3.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -98,7 +98,7 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.png" alt="">
+            <img src="ima@/assets/Finexo/ges/about-img.png" alt="">
           </div>
         </div>
         <div class="col-md-6">
@@ -138,7 +138,7 @@
       <div class="why_container">
         <div class="box">
           <div class="img-box">
-            <img src="images/w1.png" alt="">
+            <img src="@/assets/Finexo/images/w1.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -152,7 +152,7 @@
         </div>
         <div class="box">
           <div class="img-box">
-            <img src="images/w2.png" alt="">
+            <img src="@/assets/Finexo/images/w2.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -166,7 +166,7 @@
         </div>
         <div class="box">
           <div class="img-box">
-            <img src="images/w3.png" alt="">
+            <img src="@/assets/Finexo/images/w3.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -180,7 +180,7 @@
         </div>
         <div class="box">
           <div class="img-box">
-            <img src="images/w4.png" alt="">
+            <img src="@/assets/Finexo/images/w4.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -217,7 +217,7 @@
           <div class="col-lg-3 col-sm-6">
             <div class="box ">
               <div class="img-box">
-                <img src="images/team-1.jpg" class="img1" alt="">
+                <img src="im@/assets/Finexo/ages/team-1.jpg" class="img1" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -249,7 +249,7 @@
           <div class="col-lg-3 col-sm-6">
             <div class="box ">
               <div class="img-box">
-                <img src="images/team-2.jpg" class="img1" alt="">
+                <img src="im@/assets/Finexo/ages/team-2.jpg" class="img1" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -281,7 +281,7 @@
           <div class="col-lg-3 col-sm-6">
             <div class="box ">
               <div class="img-box">
-                <img src="images/team-3.jpg" class="img1" alt="">
+                <img src="im@/assets/Finexo/ages/team-3.jpg" class="img1" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -313,7 +313,7 @@
           <div class="col-lg-3 col-sm-6">
             <div class="box ">
               <div class="img-box">
-                <img src="images/team-4.jpg" class="img1" alt="">
+                <img src="im@/assets/Finexo/ages/team-4.jpg" class="img1" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -363,7 +363,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <img src="images/client1.jpg" alt="" class="box-img">
+                <img src="image@/assets/Finexo/s/client1.jpg" alt="" class="box-img">
               </div>
               <div class="detail-box">
                 <div class="client_id">
@@ -385,7 +385,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <img src="images/client2.jpg" alt="" class="box-img">
+                <img src="image@/assets/Finexo/s/client2.jpg" alt="" class="box-img">
               </div>
               <div class="detail-box">
                 <div class="client_id">
@@ -407,7 +407,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <img src="images/client1.jpg" alt="" class="box-img">
+                <img src="image@/assets/Finexo/s/client1.jpg" alt="" class="box-img">
               </div>
               <div class="detail-box">
                 <div class="client_id">
@@ -429,7 +429,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <img src="images/client2.jpg" alt="" class="box-img">
+                <img src="image@/assets/Finexo/s/client2.jpg" alt="" class="box-img">
               </div>
               <div class="detail-box">
                 <div class="client_id">
