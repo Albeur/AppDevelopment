@@ -1,5 +1,5 @@
 <template>
     <div>
-        <h1>FITNESS BODY VUE</h1>
+        <h1>MANAGE BODY VUE</h1>
     </div>
 </template>
